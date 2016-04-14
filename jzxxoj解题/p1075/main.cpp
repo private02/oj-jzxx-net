@@ -1,6 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <cstdio>
 
+/*Ë¼Â·£ºÃ¶¾Ù¡£*/
+
 int main()
 {
 	char str[30] = { 0 };
